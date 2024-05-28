@@ -6,7 +6,7 @@
   display:grid;	
   border:2px red solid;	
   grid-template-columns:repeat(2,200px);
-  /* grid-template-rows:repeat(2,200px);	 */
+  grid-template-rows:repeat(2,200px);	
 }
 
 .item-1{
